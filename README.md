@@ -32,22 +32,72 @@
 🗄️ MySQL | 🍃 MongoDB | 🔥 Firebase | 🐳 Docker | 🧩 GitHub | ⚙️ CI/CD  
 
 ---
-
-## 🚀 Projects  
-
-- 📱 **Task Manager App** – Flutter + Firebase  
-- 🌐 **Quiz Platform** – Django  
-- 🌜 **Blog System** – Flask  
-- 🐳 **CI/CD Deployment Demo** – Docker + GitHub Actions  
+<h3 align="left"> 🛠️ Languages and Tools:</h3>  
+<p align="left">  
+<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>  
+<a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>  
+<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>  
+<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>  
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>  
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>  
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>  
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>  
+<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>  
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>  
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>  
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>  
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>  
+<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>  
+</p>  
 
 ---
 
-## 🏆 Certifications & Honors  
+## 🚀 Projects  
 
-- 🎨 Assured Diploma in Graphic Design  
-- 💻 Diploma in IT (International)  
-- 📊 Data Science & Analytics  
-- ✍️ Diploma in English  
+- 📱 **Todo Application** – Flutter + Firebase  
+- 🌍 **Flutter Traveling App** – Android (In Development)  
+- 🏨 **Hotel Management System** – JavaFX + Scene Builder (In Development)  
+- 🌐 **Torrent Galaxy** – React.js + MongoDB (University Final Project)  
+- 🖥️ **ITP Pilot Project** – HTML, CSS, JavaScript  
+- 🌦️ **Weather App** – React.js + OpenWeather API  
+- 🧩 **Basic Responsive Navbar** – HTML, CSS, JavaScript  
+
+---
+## 🎓 Education  
+
+- 🎓 **London Metropolitan University, United Kingdom 🇬🇧**  
+  BEng (Hons) in Software Engineering (Sep 2024 – Sep 2025)  
+  🏅 Upper Second Class Honours | Final Project: *Dynamic Torrenting Application*  
+
+- 💻 **ESoft Uni, Sri Lanka 🇱🇰**  
+  BTEC Level 5 HND in Computing (Nov 2022 – Jan 2024)  
+  🔧 Focus: Software Development, Networking, Professional Practice  
+
+- 🎨 **ESoft Uni, Sri Lanka 🇱🇰**  
+  Diploma in Graphic Design (Jan 2022 – Jun 2022)  
+  🖌️ Skills: Photoshop, Illustrator, InDesign  
+
+- 🌐 **ESoft Uni, Sri Lanka 🇱🇰**  
+  Diploma in Web Engineering (Dec 2020 – May 2021)  
+  💡 Skills: HTML, CSS, JavaScript, PHP, MySQL  
+
+- 🖥️ **ESoft Uni, Sri Lanka 🇱🇰**  
+  Diploma in Information Technology (Jan 2018 – May 2019)  
+  🔹 Focus: IT Fundamentals, Hardware, Networking, SQL, Python  
+
+- 📖 **ESoft Uni, Sri Lanka 🇱🇰**  
+  Diploma in English (Sep 2024 – Jun 2025) – Distinction  
+
+- 🇬🇧 **Skills and Education Group, United Kingdom 🇬🇧**  
+  Level 3 Diploma in English (Sep 2025 – Oct 2025) – Distinction  
+
+## 🏆 Certifications & Honors  
+ 
 - 🎓 Graduation Ceremony – Pearson HND in Computing (BMICH)  
 - 🎓 Graduation Ceremony – BEng (Hons) Software Engineering (London Met Uni, BMICH)  
 
@@ -80,32 +130,5 @@ To grow into a **versatile software developer** capable of delivering impactful,
 <a href="https://instagram.com/lil-ice-cloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>  
 <a href="https://www.youtube.com/c/thanujamarisha8156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>  
 </p>  
-
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>  
-<p align="left">  
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>  
-<a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>  
-<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>  
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>  
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>  
-<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>  
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>  
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>  
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>  
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>  
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>  
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>  
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>  
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>  
-</p>  
-
----
 
 ✨ _“Code is like art – elegant solutions inspire innovation.”_  

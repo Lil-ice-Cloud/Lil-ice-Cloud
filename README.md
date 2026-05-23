@@ -68,34 +68,6 @@
 - 🧩 **Basic Responsive Navbar** – HTML, CSS, JavaScript  
 
 ---
-## 🎓 Education  
-
-- 🎓 **London Metropolitan University, United Kingdom 🇬🇧**  
-  BEng (Hons) in Software Engineering (Sep 2024 – Sep 2025)  
-  🏅 Upper Second Class Honours | Final Project: *Dynamic Torrenting Application*  
-
-- 💻 **ESoft Uni, Sri Lanka 🇱🇰**  
-  BTEC Level 5 HND in Computing (Nov 2022 – Jan 2024)  
-  🔧 Focus: Software Development, Networking, Professional Practice  
-
-- 🎨 **ESoft Uni, Sri Lanka 🇱🇰**  
-  Diploma in Graphic Design (Jan 2022 – Jun 2022)  
-  🖌️ Skills: Photoshop, Illustrator, InDesign  
-
-- 🌐 **ESoft Uni, Sri Lanka 🇱🇰**  
-  Diploma in Web Engineering (Dec 2020 – May 2021)  
-  💡 Skills: HTML, CSS, JavaScript, PHP, MySQL  
-
-- 🖥️ **ESoft Uni, Sri Lanka 🇱🇰**  
-  Diploma in Information Technology (Jan 2018 – May 2019)  
-  🔹 Focus: IT Fundamentals, Hardware, Networking, SQL, Python  
-
-- 📖 **ESoft Uni, Sri Lanka 🇱🇰**  
-  Diploma in English (Sep 2024 – Jun 2025) – Distinction  
-
-- 🇬🇧 **Skills and Education Group, United Kingdom 🇬🇧**  
-  Level 3 Diploma in English (Sep 2025 – Oct 2025) – Distinction  
-
 ## 🏆 Certifications & Honors  
  
 - 🎓 Graduation Ceremony – Pearson HND in Computing (BMICH)  

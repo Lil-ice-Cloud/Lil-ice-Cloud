@@ -12,10 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=Lil-ice-Cloud&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lil-ice-Cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lil-ice-Cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
-[![](https://komarev.com/ghpvc/?username=Lil-ice-Cloud&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Lil-ice-Cloud&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
